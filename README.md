@@ -1,5 +1,5 @@
 # Project Report
-## Dockerizing Express/Node.js backend with Postgres on AWS EC2
+## Deplying a node/express backend with Postgres database to AWS EC2 instances
 
 ---
 This project involves setting up a Dockerized Express/Node.js backend application with a PostgreSQL database, running on an AWS EC2 instance. The project demonstrates how to deploy and manage a simple web application and its database using Docker.
